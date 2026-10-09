@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+.ruff_cache/
+*.egg-info/
+build/
+dist/
+godot/.godot/
+benchmarks/*
+!benchmarks/.gitkeep
+reports/

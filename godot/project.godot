@@ -1,0 +1,17 @@
+config_version=5
+
+[application]
+config/name="FrameBudget Demo"
+run/main_scene="res://scenes/benchmark.tscn"
+config/features=PackedStringArray("4.4", "GL Compatibility")
+
+[display]
+window/size/viewport_width=640
+window/size/viewport_height=360
+window/vsync/vsync_mode=0
+
+[rendering]
+renderer/rendering_method="gl_compatibility"
+renderer/rendering_method.mobile="gl_compatibility"
+textures/default_filters/use_nearest_mipmap_filter=false
+environment/defaults/default_clear_color=Color(0.04, 0.05, 0.08, 1)

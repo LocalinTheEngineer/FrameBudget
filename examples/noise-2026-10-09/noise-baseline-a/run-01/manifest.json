@@ -1,0 +1,29 @@
+{
+  "camera_path": "fixed",
+  "config_hash": "50489aa7407c41005108edb18f3e2294975e8ec1c45c86013967d85f6c0273c8",
+  "device_info": "NVIDIA GeForce RTX 4050 Laptop GPU",
+  "duration_s": 1.0,
+  "engine_monitor_period_s": 1.0,
+  "engine_monitor_semantics": "Performance.TIME_PROCESS, previous completed process frame, ms",
+  "engine_version": "4.7.2-stable (official)",
+  "gpu_frame_ms": null,
+  "max_fps": 0,
+  "mode": "rendered",
+  "object_count": 100,
+  "os": "Windows",
+  "renderer": "gl_compatibility",
+  "resolution": [
+    640,
+    360
+  ],
+  "run_id": "74dbc85fdf1d431a9a10b9c505ca0384",
+  "schema_version": 1,
+  "seed": 42,
+  "shadows": false,
+  "tool_commit": "unknown",
+  "tool_version": "0.1.0",
+  "utc_time": "2026-10-09T10:15:56Z",
+  "vsync": "disabled",
+  "warmup_s": 0.5,
+  "workload": "cpu_nodes"
+}
