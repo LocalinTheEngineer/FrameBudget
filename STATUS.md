@@ -15,7 +15,9 @@
 - Godot headless schema smoke passed for `cpu_nodes` and `mesh_draw` with very short durations.
 - A short `idle` rendered smoke produced a manifest and CSV at 640×360. This is
   functionality verification, not a trustworthy performance or noise-floor run.
-- GitHub Actions workflow is authored but has not run on GitHub.
+- GitHub Actions run [37945573599](https://github.com/LocalinTheEngineer/FrameBudget/actions/runs/37945573599)
+  passed on GitHub: Python tests/lint/synthetic demo and Godot 4.7.2 headless
+  schema smoke. Shared-runner intervals are not rendered performance evidence.
 
 ## Open work and limitations
 
